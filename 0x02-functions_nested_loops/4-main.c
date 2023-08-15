@@ -9,7 +9,7 @@ int main(void)
 {
 int r;
 
-r = _isalpha('n');
+r = _isalpha(n);
 _putchar(r + '0');
 r = _isalpha('o');
 _putchar(r + '0');
